@@ -66,5 +66,5 @@ Las capturas de pantalla del funcionamiento del entorno Docker se incluyen dentr
 
 
 
-Enlace pendiente — se agregará una vez grabado el video final]
+Enlace (https://youtu.be/M3t5ZDM2byQ)
 
